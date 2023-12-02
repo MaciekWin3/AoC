@@ -1,5 +1,4 @@
 ﻿// Task 1
-
 Console.WriteLine(FindElfWithMostCalories());
 // Task 2
 Console.WriteLine(FindTopThreeElfsCalories());
