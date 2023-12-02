@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using _01;
+
+// Part one
+Console.WriteLine(PartOne.Solve());
+
+// Part two
+Console.WriteLine(PartTwo.Solve());
